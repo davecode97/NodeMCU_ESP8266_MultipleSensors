@@ -43,7 +43,7 @@
 * ![Prototipo Head](https://user-images.githubusercontent.com/67779237/205420614-cd385fd6-aa2a-4fc5-91a5-a0945f13508b.jpeg)
 
 
-<i>Subject : IoT Applications.</i>
+<i>Course : IoT Applications.</i>
 
 <i>University: Tecnologico Superior de Jalisco - Zapopan.</i>
 
